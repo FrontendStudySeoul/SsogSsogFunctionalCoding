@@ -41,7 +41,7 @@ function add_item_to_cart(name, price) {
 
 1. 신뢰할 수 없는 코드에서 변경 가능한 데이터가 들어온다.
 2. 들어온 데이터로 깊은 복사본을 만들고, 변경 가능한 원본 데이터는 버린다.
-3. 신뢰할 수 있는 코드만 복사본을 사용하므로 데이터는 바뀌지 않는다. (데이터 보호)
+3. 신뢰할 수 없는 코드만 복사본을 사용하므로 데이터는 바뀌지 않는다. (데이터 보호)
 
 - 레거시 코드로 데이터를 보낼 때의 상황
 
@@ -76,8 +76,8 @@ shopping_cart = deepCopy(cart_copy); // 들어오는 데이터를 위한 복사
 
 ```js
 function add_item_to_cart(name, price) {
-...
-shopping_cart = black_friday_promotion_safe(shopping_cart);
+  ...
+  shopping_cart = black_friday_promotion_safe(shopping_cart);
 }
 
 function black_friday_promotion_safe(cart) {
@@ -191,5 +191,5 @@ const copyPerson = structuredClone(Person);
 
 ## 들었던 생각
 
-- 깊은 복사는 강력한 불변성을 보장하지만 비용이 비싸기 때문에, 어느정도의 트레이드 오프가 있다고 생각
-- 카피-온-라이트 패턴과 같이 깊은 복사를 적절하게 사용해서 불변성을 지킬 수 있을지에 대한 고민이 필요하다.
+- 깊은 복사는 불변성을 보장하지만 비용이 비싸기 때문에, 어느정도의 트레이드 오프가 있다고 생각
+- 카피-온-라이트 패턴과 깊은 복사를 적절하게 사용해서 어떻게 하면 불변성을 지킬 수 있을지에 대한 고민이 필요하다.
