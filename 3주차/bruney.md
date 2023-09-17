@@ -159,6 +159,7 @@ function freeTieClip(cart) {
 함수가 모두 같은 길이의 화살표를 가지지 않기 때문에 직접 구현 패턴이 아님.
 - 가장 일반적인 방법은 중간에 함수를 두는 것.
 - 언어 기능을 사용하는 긴 화살표를 줄여야 함.
+
   <img width="600" alt="스크린샷 2023-09-17 오후 2 16 00" src="https://github.com/ESC-CoM/esc-front-end/assets/62797441/7fdc5c31-9a63-432e-8d2f-43fadc5f0637">
 
 - indexOfItem vs removeItems
