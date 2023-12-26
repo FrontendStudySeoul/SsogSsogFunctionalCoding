@@ -12,41 +12,49 @@
   </tr>
 	
   <tr>
-    <td rowspan="2">2주차</td>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/3%EC%A3%BC%EC%B0%A8/hodun.md">[호둔] 2장 - 리팩터링 원칙</a></td>
+    <td rowspan="3">2주차</td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/2%EC%A3%BC%EC%B0%A8/hardy.md">[하디] 3장 - 액션과 계산 데이터 차이 알기</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/3%EC%A3%BC%EC%B0%A8/damgom.md">[담곰] 3장 - 코드에서 나는 악취</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/2%EC%A3%BC%EC%B0%A8/moseung.md">[모승] 4장 - 액션에서 계산 빼내기</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/3%EC%A3%BC%EC%B0%A8/jerry.md">[제리] 4장 - 테스트 구축하기</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/2%EC%A3%BC%EC%B0%A8/papico.md">[빠삐코] 5장 - 더 좋은 액션 만들기</a></td>
   </tr>
 	
   <tr>
-    <td rowspan="3">3주차</td>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/3%EC%A3%BC%EC%B0%A8/hodun.md">[호둔] 2장 - 리팩터링 원칙</a></td>
+    <td rowspan="4">3주차</td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/3%EC%A3%BC%EC%B0%A8/damgom.md">[담곰] 6장 - 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/3%EC%A3%BC%EC%B0%A8/damgom.md">[담곰] 3장 - 코드에서 나는 악취</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/3%EC%A3%BC%EC%B0%A8/aila.md">[아일라] 7장 - 신뢰할 수 없는 코드를 쓰면서 불변성 지키기
+</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/3%EC%A3%BC%EC%B0%A8/jerry.md">[제리] 4장 - 테스트 구축하기</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/3%EC%A3%BC%EC%B0%A8/bruney.md">[브루니] 8장 - 계층형 설계 1
+</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/3%EC%A3%BC%EC%B0%A8/jerry.md">[제리] 9장 - 계층형 설계 2</a></td>
   </tr>
 
   
   <tr>
     <td rowspan="4">4주차</td>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/4%EC%A3%BC%EC%B0%A8/hardy.md">[하디] 6장 기본적인 리팩터링</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/4%EC%A3%BC%EC%B0%A8/moseung.md">[하디] 10장 - 일급함수 1</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/4%EC%A3%BC%EC%B0%A8/bruney.md">[브루니] 7장 캡슐화</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/4%EC%A3%BC%EC%B0%A8/damgom.md">[담곰] 11장 - 일급함수 2</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FrontendStudySeoul/RefactoringV2/blob/main/4%EC%A3%BC%EC%B0%A8/moseung.md">[모승] 8장 기능 이동</a></td>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/4%EC%A3%BC%EC%B0%A8/papico.md">[빠삐코] - 12장 함수형 반복</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/4%EC%A3%BC%EC%B0%A8/hardy.md">[하디] - 13장 함수형 도구 체이닝</a></td>
   </tr>
   
   <tr>
-    <td rowspan="5">5주차(끝)</td>
+    <td rowspan="4">5주차(끝)</td>
     <td><a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding/blob/main/5%EC%A3%BC%EC%B0%A8/bruney.md">[브루니] 15장 - 타임라인 격리하기</a></td>
   </tr>
   <tr>
